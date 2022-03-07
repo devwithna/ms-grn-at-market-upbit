@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "ms_grn_at_market_upbit"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
